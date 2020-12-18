@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-# Write a Python Program to keep adding stream of numbers unpitted by user and addition will stop as soon as user presses a key on the keyboard
+
 import random
-shop_name = "Seth Mart"
+shop_name = "Shop Mart"
 customer_name = input("Customer Name: ")
 sum = 0
 count=0
